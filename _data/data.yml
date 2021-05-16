@@ -1,0 +1,249 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Vladimir Filonov
+    tagline: Software Management Influencer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: vladimir@filonov.dev
+    linkedin: vladimirfilonov
+    telegram: pyhoster
+    gitlab:
+    bitbucket:
+    twitter: '@pyhoster'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Russian
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Chech
+        level: Basic
+
+    interests:
+      - item: Learning
+        link:
+
+      - item: Writing
+        link:
+
+      - item: Drawing
+        link:
+          -
+      - item: Coding
+        link:
+
+
+
+career-profile:
+    title: About me
+    summary: |
+      I was 6 years old when I first met a computer. It was a monochromic cassettes-based desktop my father brought to replace his typewriter. It was the early 90th, and most of my friend's families brought cars for the same price. This has defined my life.
+
+      By the age of 25, I had commercial experience in C/C++, JavaScript, PHP, and Python. I worked with distributed and high-loaded projects.
+
+      At 27 I decided to run my own outsourcing company. It started as a company of 3 people and grew up to 20 engineers with offices in Moscow and Prague in 4 years.
+
+      I had the CTO role, I built the team, applied SDLC processes, communicated with clients to build requirements, and so on.
+
+      After 6 years I started to see some weaknesses and gaps in my management knowledge which stopped me from getting to the next level, so I decided to take a step back and took a Manager of Engineering role in a US-based company to obtain some practical knowledge of corporate-style management. Simultaneously I've started a broad educational process around IT management (which led me to graduation from the "Leading People and Teams" specialization of the University of Michigan). Now I am preparing to enter the University of Illinois for a Master of Science in Management.
+
+education:
+    - degree: BCs in Corporate Management
+      university: MIMEMO
+      time: 2009 - 2014
+
+experiences:
+    - role: TechLead, Manager of Engineering
+      time: June 2019 - Present
+      company: Takeoff Technologies, Boston
+      details: |
+        **Story**: After 6 years of being CTO in itcanfly I started to see some
+        weaknesses and gaps in my management knowledge which stopped me
+        from getting to the next level, so I decided to take a step back and took a
+        management role in US-based company to obtain some practical
+        knowledge of corporate-style management.
+
+        **Product**: Automated grocery fulfillment solution
+
+        **Stack**: Clojure, Python, ClojureScript, TypeScript, Kotlin, React,
+        PostgreSQL, CouchDB, ArangoDB, k8s
+
+        **Responsibilities & Achievements**
+
+        - Direct management of 10 people (career growth, personal growth,
+        performance, conflict management, etc)
+        - Scrum Team Management (3 teams)
+        - Influence on goal setting principles at company level
+        - Highlighted multicultural communication problems between US and
+        UA-based offices
+        - Facilitate effective Event Storming, Risk Mitigations strategies and RCA
+        processes
+        - Setup company-wide knowledge sharing process
+        - Setup cross-team contribution policy and process
+        - Technical Hiring management
+
+    - role: CTO/Founder
+      time: 2013 - June 2019
+      company: itcanfly, Moscow/Prague
+      details: |
+        **Story**: After leaving Labbler, I decided that I have enough experience to
+        start an outsourcing company. It started as a company of 3 people and
+        grew up to 20 engineers with offices in Moscow and Prague in 4 years.
+
+        **Product**: Outsourcing Software Development
+
+        **Stack**: Python, Erlang/Elixir, TypeScript, JavaScript, React, Angular,
+        PostgreSQL, Redis
+
+        **Responsibilities & Achievements**
+        - Projects TCO and development budget planning
+        - Сommunications with clients (contracting, technical, financial, etc)
+        - High-level architecture
+        - HR brand building
+        - Technical Hiring management
+        - Direct management of 20 people
+        - Scrum/Kanban Team Management (4 teams)
+
+        **Most meaningful projects**
+        - We were one of the contractors who supported and improved
+        World Food Programme internal tooling for managing
+        humanitarian supplies for millions of households all over the
+        world
+        - We designed, implemented and provided long-term support for
+        automated last-mile delivery stations network Halva. Right now
+        the network has more than 4000 stations in Russia.
+        - Alternative automated last-mile delivery stations network
+        Teleport was also designed and built from scratch by our team.
+        Now it has almost 600 stations.
+        - Clarins Russia supplies millions of products to thousands of
+        stores. We made a brand new audit and management system for
+        accounting products in distributors’ stores
+        - To reduce the number of shoplifters we implemented a face
+        recognition system for retailers. After launching a pilot project
+        with Auchan Russia we met 98% accuracy in known thieves
+        recognition and reduced stilling by 70% in one month.
+        - Based on same solution we created system of VIP clients
+        recognition for Sberbank Russia offices
+
+    - role: Software Engineer, CTO
+      time: March 2012 - August 2013
+      company: Labbler Inc., Delaware
+      details: |
+        **Story**: I joined this startup at a very early stage as a Software Engineer,
+        but after a couple of months was promoted to the CTO role. We grew from
+        500 to 10000 clients, processed more than thousand hours of uploaded
+        music.
+
+        **Product**: Social network for Music Professionals and Fans
+
+        **Stack**: Python, PostgreSQL, Riak, Redis
+
+        **Responsibilities & Achievements**
+        - High availability architecture design
+        - Fail-tolerant Infrastructure design and implementation
+        - Team of 5 engineers management
+        - Kanban Process integration
+
+        **Some memories**
+        - [Video Presentation](https://vimeo.com/52238797)
+        - [Random article](https://www.prnewswire.com/news-releases/labblercom---a-new-network-for-music-professionals-and-fans-182956461.html)
+        - [Behance Featured UI](https://www.behance.net/gallery/2440383/Labbler-Music-Community-Interface)
+
+    - role: Software Developer, Entrepreneur
+      time: 2003 - March 2012
+      company: Labbler Inc., Delaware
+      details: |
+        **Story**: This is the very start of my software developer career. I’ve started
+         as a PHP developer and most of my projects were about supporting, fixing
+         and improving things after previous developers. This created my most
+         powerful skill - diving into client expectations and legacy code without
+         any kind of documentation or initial requirements. Projects were very
+         different - corporate websites, online shops, management systems, etc.
+         This brought me wide business expertise.
+
+         At one point a friend of mine suggested starting our own clothing store. In
+         3 months we reached country-wide size as an online shop and decided to
+         open an offline selling point. That was a very unusual, but cool
+         experience. I obtain knowledge in direct selling and face-to-face client
+         communication.
+
+         After two years I left this business and received a contract with Logibox
+         company - the very first automated last-mile delivery stations network in
+         Russia. I was a single person responsible for building a management
+         system on top of KEBA’s Kepol solution, retailers integration, billing
+         automation, etc.
+
+
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Learn Python Cources Co-founder
+        link: "https://learn.python.ru"
+        tagline: "10-weeks basic python course with project-based flow. Graduated more than 1500 students in 5 years"
+
+      - title: MoscowPython Comminity Evangelist
+        link: "https://moscowpython.ru"
+        tagline: "Country-wide programming community which includes more than 10 thousands active participants at the moment"
+
+      - title: Moscow Python Conf
+        link: "https://conf.python.ru/"
+        tagline: "Co-founder"
+
+      - title: Piter Py Conference
+        link: "https://piterpy.com/"
+        tagline: "Organizer in 2014-2016"
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Project Management
+      - name: People Management
+      - name: Goals Setting
+      - name: Strategic Thinking
+      - name: Active Listening
+      - name: Mentroting, Coaching
+
+footer: >
+    Built with <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Orbit Jekyll Theme</a> by <a href="https://github.com/sharu725" target="_blank" rel="nofollow">Sharath Kumar</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
