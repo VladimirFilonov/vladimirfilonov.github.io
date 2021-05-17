@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vladimir Filonov
-    tagline: Software Management Influencer
+    tagline: Growth influencer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,19 +51,19 @@ career-profile:
     title: About me
     summary: |
       I was 6 years old when I first met a computer. It was a monochromic cassettes-based desktop my father brought to replace his typewriter. It was the early 90th, and most of my friend's families brought cars for the same price. This has defined my life.
-
       By the age of 25, I had commercial experience in C/C++, JavaScript, PHP, and Python. I worked with distributed and high-loaded projects.
-
       At 27 I decided to run my own outsourcing company. It started as a company of 3 people and grew up to 20 engineers with offices in Moscow and Prague in 4 years.
-
       I had the CTO role, I built the team, applied SDLC processes, communicated with clients to build requirements, and so on.
-
       After 6 years I started to see some weaknesses and gaps in my management knowledge which stopped me from getting to the next level, so I decided to take a step back and took a Manager of Engineering role in a US-based company to obtain some practical knowledge of corporate-style management. Simultaneously I've started a broad educational process around IT management (which led me to graduation from the "Leading People and Teams" specialization of the University of Michigan). Now I am preparing to enter the University of Illinois for a Master of Science in Management.
 
 education:
     - degree: BCs in Corporate Management
       university: MIMEMO
       time: 2009 - 2014
+
+    - degree: Leading People and Teams
+      university: University of Michigan
+      time: 2020-2021
 
 experiences:
     - role: TechLead, Manager of Engineering
