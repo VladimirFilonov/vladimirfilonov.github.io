@@ -15,8 +15,8 @@ sidebar:
     email: vladimir@filonov.dev
     linkedin: vladimirfilonov
     telegram: pyhoster
-    gitlab:
-    bitbucket:
+    blog: https://blog.filonov.dev
+    github: VladimirFilonov
     twitter: '@pyhoster'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -32,12 +32,15 @@ sidebar:
       - idiom: Chech
         level: Basic
 
+      - idiom: Georgian
+        level: Basic
+
     interests:
       - item: Learning
         link:
 
       - item: Writing
-        link:
+        link: https://blog.filonov.dev
 
       - item: Drawing
         link:
@@ -191,13 +194,18 @@ experiences:
 projects:
     title: Projects
     assignments:
+
+      - title: IT Club Georgia Comminity Founder
+        link: "https://it-club.ge"
+        tagline: "Technology community in Georgia with a great mission to make Georgia one of the key IT hubs in Europe"
+
       - title: Learn Python Cources Co-founder
         link: "https://learn.python.ru"
         tagline: "10-weeks basic python course with project-based flow. Graduated more than 1500 students in 5 years"
 
       - title: MoscowPython Comminity Evangelist
         link: "https://moscowpython.ru"
-        tagline: "Country-wide programming community which includes more than 10 thousands active participants at the moment"
+        tagline: "Country-wide programming community which includes more than 15 thousands active participants at the moment"
 
       - title: Moscow Python Conf
         link: "https://conf.python.ru/"
