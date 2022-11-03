@@ -53,11 +53,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I was 6 years old when I first met a computer. It was a monochromic cassettes-based desktop my father brought to replace his typewriter. It was the early 90th, and most of my friend's families brought cars for the same price. This has defined my life.
-      By the age of 25, I had commercial experience in C/C++, JavaScript, PHP, and Python. I worked with distributed and high-loaded projects.
-      At 27 I decided to run my own outsourcing company. It started as a company of 3 people and grew up to 20 engineers with offices in Moscow and Prague in 4 years.
-      I had the CTO role, I built the team, applied SDLC processes, communicated with clients to build requirements, and so on.
-      After 6 years I started to see some weaknesses and gaps in my management knowledge which stopped me from getting to the next level, so I decided to take a step back and took a role in a US-based company to obtain some practical knowledge of corporate-style management. Simultaneously I've started a broad educational process around IT management (which led me to graduation from the "Leading People and Teams" specialization of the University of Michigan).
+      **Top manager and Software Engineering Leader** with more than 20 years of IT experience in various environments - from rapid-growing startups to established enterprise-level businesses. Additionally, have experience with building multiple self-established businesses in different market areas. An inspirational leader with high-leveled communication, management, and presentation skills. Mentor, speaker, and Communities Builder 
 
 education:
     - degree: BCs in Corporate Management
@@ -69,42 +65,35 @@ education:
       time: 2020-2021
 
 experiences:
-    - role: TechLead ↣ Manager of Engineering ↣ Director of Engineering
+    - role: Director of Engineering
       time: June 2019 - Present
       company: Takeoff Technologies, Boston
       details: |
-        **Story**: After 6 years of being CTO in itcanfly I started to see some
-        weaknesses and gaps in my management knowledge which stopped me
-        from getting to the next level, so I decided to take a step back and took a
-        management role in US-based company to obtain some practical
-        knowledge of corporate-style management.
 
         **Product**: Automated grocery fulfillment solution
 
         **Stack**: Clojure, Python, ClojureScript, TypeScript, Kotlin, React,
         PostgreSQL, CouchDB, ArangoDB, k8s
 
-        **Responsibilities & Achievements**
-
-        - Direct management of 10 people (career growth, personal growth,
-        performance, conflict management, etc)
-        - Scrum Team Management (3 teams)
+        **Responsibilities**
+        - Direct management of 10 people (career growth, personal growth, performance, conflict management, etc)
+        - Team Management
         - Influence on goal setting principles at company level
-        - Highlighted multicultural communication problems between US and
-        UA-based offices
-        - Facilitate effective Event Storming, Risk Mitigations strategies and RCA
-        processes
+        - Technical Hiring management 
+
+        **Achievements**
+        - Successfully completed three corporate  transformations in own domain: Scrum -> Nexus, Clojure -> Golang, Programmers’ -> Engineers’ mindset
+        - Setup company-wide learning path
+        - Identify and address multicultural communication problems between US and UA-based offices
+        - Facilitate effective Event Storming, Risk Mitigations strategies and RCA processes
         - Setup company-wide knowledge sharing process
         - Setup cross-team contribution policy and process
-        - Technical Hiring management
+
 
     - role: CTO/Founder
       time: 2013 - June 2019
       company: itcanfly, Moscow/Prague
       details: |
-        **Story**: After leaving Labbler, I decided that I have enough experience to
-        start an outsourcing company. It started as a company of 3 people and
-        grew up to 20 engineers with offices in Moscow and Prague in 4 years.
 
         **Product**: Outsourcing Software Development
 
@@ -112,6 +101,7 @@ experiences:
         PostgreSQL, Redis
 
         **Responsibilities & Achievements**
+        - Build the company from scratch
         - Projects TCO and development budget planning
         - Сommunications with clients (contracting, technical, financial, etc)
         - High-level architecture
@@ -145,10 +135,6 @@ experiences:
       time: March 2012 - August 2013
       company: Labbler Inc., Delaware
       details: |
-        **Story**: I joined this startup at a very early stage as a Software Engineer,
-        but after a couple of months was promoted to the CTO role. We grew from
-        500 to 10000 clients, processed more than thousand hours of uploaded
-        music.
 
         **Product**: Social network for Music Professionals and Fans
 
@@ -165,30 +151,8 @@ experiences:
         - [Random article](https://www.prnewswire.com/news-releases/labblercom---a-new-network-for-music-professionals-and-fans-182956461.html)
         - [Behance Featured UI](https://www.behance.net/gallery/2440383/Labbler-Music-Community-Interface)
 
-    - role: Software Developer, Entrepreneur
+    - role: Software Developer, Solo Entrepreneur
       time: 2003 - March 2012
-      company: Labbler Inc., Delaware
-      details: |
-        **Story**: This is the very start of my software developer career. I’ve started
-         as a PHP developer and most of my projects were about supporting, fixing
-         and improving things after previous developers. This created my most
-         powerful skill - diving into client expectations and legacy code without
-         any kind of documentation or initial requirements. Projects were very
-         different - corporate websites, online shops, management systems, etc.
-         This brought me wide business expertise.
-
-         At one point a friend of mine suggested starting our own clothing store. In
-         3 months we reached country-wide size as an online shop and decided to
-         open an offline selling point. That was a very unusual, but cool
-         experience. I obtain knowledge in direct selling and face-to-face client
-         communication.
-
-         After two years I left this business and received a contract with Logibox
-         company - the very first automated last-mile delivery stations network in
-         Russia. I was a single person responsible for building a management
-         system on top of KEBA’s Kepol solution, retailers integration, billing
-         automation, etc.
-
 
 
 projects:
@@ -241,6 +205,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Python, Erlang\Elixir, Clojure, ClojureScript, Go, JavaScript + Node.JS, PHP, Kotlin
+      - name: Docker, Kubernetes
+      - name: Cloud Native, AWS, GCP
+      - name: GitHub Actions, GitLab CI, Bitbucket Pipelines, Argo CD, Jenkins 
+      - name: PostgreSQL, MySQL, MongoDB, Redis, Riak
+      - name: ActiveMQ, RabbitMQ, Kafka, 0mq
       - name: Project Management
       - name: People Management
       - name: Goals Setting
