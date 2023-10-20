@@ -65,8 +65,31 @@ education:
       time: 2020-2021
 
 experiences:
+    - role: CTO of service inDriver.Job
+      time: January 2023 - Present
+      company: inDrive
+      details: |
+        
+        **Product**: Hiring platform for blue-collars based in video-vacancies
+        
+        **Stack**: TypeScript, React, Next.js, Nest.js, MySQL, Redis, Elastic, k8s
+        
+        **Responsibilities**
+        - Direct management of 16 people (career growth, personal growth, performance, conflict management, etc)
+        - Team Management
+        - Software development Lifecycle Management
+        - High-level architecture
+        - Technical Hiring management
+        - Budgeting
+        - Technical Strategy
+        
+        **Achievements**
+        - Implemented SDLC processes
+        - Normalize release cycle
+        - Successfully transform vertical from MVP to Production stage
+
     - role: Director of Engineering
-      time: June 2019 - Present
+      time: June 2019 - January 2023
       company: Takeoff Technologies, Boston
       details: |
 
