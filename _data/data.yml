@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Vladimir Filonov
-    tagline: Growth influencer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Change manager
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: vladimir@filonov.dev
@@ -53,7 +53,13 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      **Top manager and Software Engineering Leader** with more than 20 years of IT experience in various environments - from rapid-growing startups to established enterprise-level businesses. Additionally, have experience with building multiple self-established businesses in different market areas. An inspirational leader with high-leveled communication, management, and presentation skills. Mentor, speaker, and Communities Builder 
+      **Top manager and Software Engineering Leader** with more than 20 years of IT experience in various 
+      environments - from rapid-growing startups to established enterprise-level businesses. Experience 
+      with building multiple self-established businesses in different market areas. An 
+      inspirational leader with high-leveled communication, management, and presentation skills. 
+      Mentor, speaker, and Communities Builder.
+      
+      **My super-power is to bring things to live. From scratch, from crisis, from ashes.**
 
 education:
     - degree: BCs in Corporate Management
@@ -85,8 +91,9 @@ experiences:
         
         **Achievements**
         - Implemented SDLC processes
-        - Normalize release cycle
+        - Normalize release cycle and TTM
         - Successfully transform vertical from MVP to Production stage
+        - Launch product at CIS and LATAM markets
 
     - role: Director of Engineering
       time: June 2019 - January 2023
