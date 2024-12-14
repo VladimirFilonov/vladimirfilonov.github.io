@@ -72,8 +72,17 @@ education:
       time: 2020-2021
 
 experiences:
+    - role: Founding Engineer
+      time: July 2024 - Present
+      company: KeepHQ
+      details: |
+        
+        **Product**: The Open-Source AIOps Platform
+        
+        **Stack**: TypeScript, React, Next.js, Python, FastAPI, MySQL, PostgreSQL, Redis, Elastic
+
     - role: CTO of service inDriver.Job
-      time: January 2023 - Present
+      time: January 2023 - January 2024
       company: inDrive
       details: |
         
